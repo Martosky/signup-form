@@ -1,4 +1,6 @@
 just added the page structure
 just finished styling the side bar of the form page.
 next is the form content
-just fix a bug on my form page
+just fix a bug on my form page,
+i have added an extra layer of styling to my page to make it look much alike
+next to to style the form input.

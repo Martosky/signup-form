@@ -1,1 +1,3 @@
 just added the page structure
+just finished styling the side bar of the form page.
+next is the form content

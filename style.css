@@ -65,11 +65,11 @@
    }
    .section3{
     background-color: rgb(233, 223, 223);
-    padding: 70px 100px 70px 100px;
+    padding: 50px 100px 50px 100px;
    }
    .section3 button{
          width: 200px;
-         padding: 15px;
+         padding: 10px;
          font-size: 18px;
          border: none;
          text-align: center;

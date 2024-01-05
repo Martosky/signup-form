@@ -61,7 +61,7 @@
    }
 
    .section2{
-    padding: 70px 100px 70px 100px;
+    padding: 70px 70px 70px 70px;
    }
    .section3{
     background-color: rgb(233, 223, 223);
@@ -79,4 +79,16 @@
    }
    .section3 > p {
     padding-top: 20px;
+   }
+   form{
+    display: flex;
+    flex-flow: row wrap;
+    gap: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   }
+   input{
+    display: flex;
+    flex-flow: column wrap;
+    width: 40%;
    }

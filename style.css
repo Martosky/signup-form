@@ -61,9 +61,39 @@
    }
 
    .section2{
-    padding: 70px 70px 70px 70px;
+    overflow: hidden;
    }
+   .left{
+    float: left;
+    width: 50%;
+    padding: 20px;
+   }
+   .left input{
+    display: block;
+    width: 60%;
+    padding: 5px;
+    margin-left: 150px;
+    margin-top: 3px;
+   }
+   .left label{
+    margin-left: 150px;
+    display: block;
+   }
+   .right{
+    float: right;;
+    width: 50%;
+    padding: 20px;
+   }
+   .right input{
+    display: block;
+    width: 60%;
+    padding: 5px;
+    margin-left: 20;
+    margin-top: 3px;
+   }
+   
    .section3{
+    clear: both;
     background-color: rgb(233, 223, 223);
     padding: 50px 100px 50px 100px;
    }
@@ -80,15 +110,4 @@
    .section3 > p {
     padding-top: 20px;
    }
-   form{
-    display: flex;
-    flex-flow: row wrap;
-    gap: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-   }
-   input{
-    display: flex;
-    flex-flow: column wrap;
-    width: 40%;
-   }
+  

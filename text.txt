@@ -5,4 +5,6 @@ just fix a bug on my form page,
 i have added an extra layer of styling to my page to make it look much alike
 next to to style the form input.
 just added the form element
-next is to style the form element
+next is to style the form element.
+finally fix the bug in the html.
+now i am doing the final styling.

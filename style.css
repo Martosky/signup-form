@@ -117,4 +117,9 @@
    .section3 > p {
     padding-top: 20px;
    }
+   span {
+    color: rgb(46, 88, 46);
+    text-decoration: underline;
+    font-weight: bold;
+   }
   
